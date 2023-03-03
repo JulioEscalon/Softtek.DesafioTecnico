@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Softtek.ControlVentas.Abstraction\Softtek.ControlVentas.Abstraction.csproj" />
+    <ProjectReference Include="..\Softtek.ControlVentas.Entity\Softtek.ControlVentas.Entity.csproj" />
+    <ProjectReference Include="..\Softtek.ControlVentas.Repository\Softtek.ControlVentas.Repository.csproj" />
+    <ProjectReference Include="..\Softtek.ControlVentas.Service\Softtek.ControlVentas.Service.csproj" />
+  </ItemGroup>
+
+</Project>
