@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Softtek.Application/1.0.0": {
+        "dependencies": {
+          "Softtek.Abstraction": "1.0.0",
+          "Softtek.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Softtek.Application.dll": {}
+        }
+      },
+      "Softtek.Abstraction/1.0.0": {
+        "runtime": {
+          "Softtek.Abstraction.dll": {}
+        }
+      },
+      "Softtek.Repository/1.0.0": {
+        "dependencies": {
+          "Softtek.Abstraction": "1.0.0"
+        },
+        "runtime": {
+          "Softtek.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Softtek.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Softtek.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Softtek.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

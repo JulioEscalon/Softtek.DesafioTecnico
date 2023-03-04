@@ -1,0 +1,12 @@
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\bin\Debug\net5.0\Softtek.Abstraction.deps.json
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\bin\Debug\net5.0\Softtek.Abstraction.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\bin\Debug\net5.0\Softtek.Abstraction.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\obj\Debug\net5.0\Softtek.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\obj\Debug\net5.0\Softtek.Abstraction.AssemblyInfoInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\obj\Debug\net5.0\Softtek.Abstraction.AssemblyInfo.cs
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\obj\Debug\net5.0\Softtek.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\obj\Debug\net5.0\Softtek.Abstraction.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\obj\Debug\net5.0\ref\Softtek.Abstraction.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\obj\Debug\net5.0\Softtek.Abstraction.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\bin\Debug\net5.0\ref\Softtek.Abstraction.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Abstraction\obj\Debug\net5.0\Softtek.Abstraction.csproj.AssemblyReference.cache

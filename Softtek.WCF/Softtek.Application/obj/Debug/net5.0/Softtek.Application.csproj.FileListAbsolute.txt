@@ -1,0 +1,17 @@
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\bin\Debug\net5.0\Softtek.Application.deps.json
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\bin\Debug\net5.0\Softtek.Application.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\bin\Debug\net5.0\ref\Softtek.Application.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\bin\Debug\net5.0\Softtek.Application.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\bin\Debug\net5.0\Softtek.Abstraction.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\bin\Debug\net5.0\Softtek.Repository.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\bin\Debug\net5.0\Softtek.Abstraction.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\bin\Debug\net5.0\Softtek.Repository.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\obj\Debug\net5.0\Softtek.Application.csproj.AssemblyReference.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\obj\Debug\net5.0\Softtek.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\obj\Debug\net5.0\Softtek.Application.AssemblyInfoInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\obj\Debug\net5.0\Softtek.Application.AssemblyInfo.cs
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\obj\Debug\net5.0\Softtek.Application.csproj.CoreCompileInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\obj\Debug\net5.0\Softtek.Application.csproj.CopyComplete
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\obj\Debug\net5.0\Softtek.Application.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\obj\Debug\net5.0\ref\Softtek.Application.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Application\obj\Debug\net5.0\Softtek.Application.pdb

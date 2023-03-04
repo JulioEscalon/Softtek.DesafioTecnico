@@ -1,0 +1,15 @@
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\bin\Debug\net5.0\Softtek.Service.deps.json
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\bin\Debug\net5.0\Softtek.Service.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\bin\Debug\net5.0\ref\Softtek.Service.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\bin\Debug\net5.0\Softtek.Service.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\obj\Debug\net5.0\Softtek.Service.csproj.AssemblyReference.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\obj\Debug\net5.0\Softtek.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\obj\Debug\net5.0\Softtek.Service.AssemblyInfoInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\obj\Debug\net5.0\Softtek.Service.AssemblyInfo.cs
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\obj\Debug\net5.0\Softtek.Service.csproj.CoreCompileInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\obj\Debug\net5.0\Softtek.Service.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\obj\Debug\net5.0\ref\Softtek.Service.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\obj\Debug\net5.0\Softtek.Service.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\bin\Debug\net5.0\Softtek.Abstraction.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\bin\Debug\net5.0\Softtek.Abstraction.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Service\obj\Debug\net5.0\Softtek.Service.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\bin\Debug\net5.0\Softtek.Entity.deps.json
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\bin\Debug\net5.0\Softtek.Entity.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\bin\Debug\net5.0\ref\Softtek.Entity.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\bin\Debug\net5.0\Softtek.Entity.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\obj\Debug\net5.0\Softtek.Entity.csproj.AssemblyReference.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\obj\Debug\net5.0\Softtek.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\obj\Debug\net5.0\Softtek.Entity.AssemblyInfoInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\obj\Debug\net5.0\Softtek.Entity.AssemblyInfo.cs
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\obj\Debug\net5.0\Softtek.Entity.csproj.CoreCompileInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\obj\Debug\net5.0\Softtek.Entity.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\obj\Debug\net5.0\ref\Softtek.Entity.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\obj\Debug\net5.0\Softtek.Entity.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\bin\Debug\net5.0\Softtek.Abstraction.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\bin\Debug\net5.0\Softtek.Abstraction.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Entity\obj\Debug\net5.0\Softtek.Entity.csproj.CopyComplete

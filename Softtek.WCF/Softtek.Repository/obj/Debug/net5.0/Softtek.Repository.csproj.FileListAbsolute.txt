@@ -1,0 +1,15 @@
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\bin\Debug\net5.0\Softtek.Repository.deps.json
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\bin\Debug\net5.0\Softtek.Repository.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\bin\Debug\net5.0\ref\Softtek.Repository.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\bin\Debug\net5.0\Softtek.Repository.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\bin\Debug\net5.0\Softtek.Abstraction.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\bin\Debug\net5.0\Softtek.Abstraction.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\obj\Debug\net5.0\Softtek.Repository.csproj.AssemblyReference.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\obj\Debug\net5.0\Softtek.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\obj\Debug\net5.0\Softtek.Repository.AssemblyInfoInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\obj\Debug\net5.0\Softtek.Repository.AssemblyInfo.cs
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\obj\Debug\net5.0\Softtek.Repository.csproj.CoreCompileInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\obj\Debug\net5.0\Softtek.Repository.csproj.CopyComplete
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\obj\Debug\net5.0\Softtek.Repository.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\obj\Debug\net5.0\ref\Softtek.Repository.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.Repository\obj\Debug\net5.0\Softtek.Repository.pdb

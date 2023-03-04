@@ -1,0 +1,17 @@
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\bin\Debug\net5.0\Softtek.DataAccess.deps.json
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\bin\Debug\net5.0\Softtek.DataAccess.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\bin\Debug\net5.0\Softtek.DataAccess.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\bin\Debug\net5.0\Softtek.Abstraction.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\bin\Debug\net5.0\Softtek.Abstraction.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\obj\Debug\net5.0\Softtek.DataAccess.csproj.AssemblyReference.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\obj\Debug\net5.0\Softtek.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\obj\Debug\net5.0\Softtek.DataAccess.AssemblyInfoInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\obj\Debug\net5.0\Softtek.DataAccess.AssemblyInfo.cs
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\obj\Debug\net5.0\Softtek.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\obj\Debug\net5.0\Softtek.DataAccess.csproj.CopyComplete
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\obj\Debug\net5.0\Softtek.DataAccess.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\obj\Debug\net5.0\ref\Softtek.DataAccess.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\obj\Debug\net5.0\Softtek.DataAccess.pdb
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\bin\Debug\net5.0\ref\Softtek.DataAccess.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\bin\Debug\net5.0\Softtek.Entity.dll
+C:\Users\51948\Desktop\JULIO\softtek\Softtek.WCF\Softtek.DataAccess\bin\Debug\net5.0\Softtek.Entity.pdb
